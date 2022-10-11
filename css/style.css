@@ -34,7 +34,6 @@ body {
   background-image: url("../media/space.png");
   height: 100%;
   background-position: center;
-  background-repeat: no-repeat;
   background-size: cover;
 }
 
