@@ -1,7 +1,7 @@
-# Web Development Projects
+# Web Development Labs
 
 ## Description
-This repository contains several **web projects** implemented as part of my coursework for **ITMD-361**, where I learned **HTML**, **CSS**, and **JavaScript**. It includes **labs 1 through 7**, and each folder contains a live URL for easy access to the projects.
+This repository contains several **web labs** implemented as part of my coursework for **ITMD-361**, where I learned **HTML**, **CSS**, and **JavaScript**. It includes **labs 1 through 7**, and each folder contains a live URL for easy access to the projects.
 
 These projects showcase the basic concepts of web development, including structuring web pages, styling with CSS, and adding interactivity using JavaScript.
 
